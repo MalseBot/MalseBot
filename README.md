@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malsebot&label=Profile%20views&color=0e75b6&style=flat" alt="malsebot" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://malsebot.netlify.app/](https://malsebot.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portofolio](https://malsebot.netlify.app/)
 
 - 📫 How to reach me **eso2001618@gmail.com**
 
