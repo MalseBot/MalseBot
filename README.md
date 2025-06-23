@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portofolio](https://malsebot.netlify.app/)
 
-- 📫 How to reach me **eso2001618@gmail.com**
+- 📫 How to reach me **eslamhassanin24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
